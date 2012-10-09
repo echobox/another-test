@@ -1,4 +1,3 @@
-another-test - stage
+another-test
 ============
 ###This is a test repository
-
